@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 
 ### Github
-Cambios realizados en Github.com
+Cambios realizados desde Github.com
